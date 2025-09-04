@@ -1,0 +1,8 @@
+fastapi==0.111.*
+uvicorn[standard]==0.30.*
+python-dotenv==1.*
+requests==2.*
+beautifulsoup4==4.*
+feedparser==6.*
+tenacity==8.*
+python-slugify==8.*
